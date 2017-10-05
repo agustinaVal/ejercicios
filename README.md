@@ -43,4 +43,4 @@ devuelve alerta d la palabra descifrada;
 
 
 
-![mi diagrama de flujo](https://i.imgur.com/a/TMzQh?raw=true)
+![mi diagrama de flujo](https://i.imgur.com/lOVRXQS.jpg?raw=true)
